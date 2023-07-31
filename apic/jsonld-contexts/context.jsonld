@@ -1,6 +1,7 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/JarcauCristian/contexts/main/apic.jsonld",
+        "https://raw.githubusercontent.com/JarcauCristian/contexts/main/apic/jsonld-contexts/apic.jsonld",
+        "https://raw.githubusercontent.com/JarcauCristian/contexts/main/shared-jsonld-contexts/sie.jsonld",
         "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.3.jsonld"
     ]
 }
