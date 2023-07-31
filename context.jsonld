@@ -1,6 +1,0 @@
-{
-    "@context": [
-        "https://raw.githubusercontent.com/JarcauCristian/contexts/main/siemens.jsonld",
-        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.3.jsonld"
-    ]
-}

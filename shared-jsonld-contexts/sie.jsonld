@@ -1,0 +1,36 @@
+{
+    "@context":{
+       "createdBy": "https://ontology.eglobalmark.com/sie#createdBy",
+       "executedBy": "https://ontology.eglobalmark.com/sie#executedBy",
+       "deviceParameter": "https://ontology.eglobalmark.com/sie#deviceParameter",
+       "vendorId": "https://ontology.eglobalmark.com/sie#vendorId",
+       "observedBy": "https://ontology.eglobalmark.com/sie#observedBy",
+       "brandName": "https://ontology.eglobalmark.com/sie#brandName",
+       "manages": "https://ontology.eglobalmark.com/sie#manages",
+       "calibrationCertif": "https://ontology.eglobalmark.com/sie#calibrationCertif",
+       "length": "https://ontology.eglobalmark.com/sie#length",
+       "connectsTo": "https://ontology.eglobalmark.com/sie#connectsTo",
+       "detects": "https://ontology.eglobalmark.com/sie#detects",
+       "observes": "https://ontology.eglobalmark.com/sie#observes",
+       "depth": "https://ontology.eglobalmark.com/sie#depth",
+       "managedBy": "https://ontology.eglobalmark.com/sie#managedBy",
+       "belongs": "https://ontology.eglobalmark.com/sie#belongs",
+       "belongsTo": "https://ontology.eglobalmark.com/sie#belongsTo",
+       "detectedBy": "https://ontology.eglobalmark.com/sie#detectedBy",
+       "heigth": "https://ontology.eglobalmark.com/sie#heigth",
+       "width": "https://ontology.eglobalmark.com/sie#width",
+       "executes": "https://ontology.eglobalmark.com/sie#executes",
+       "calibrationDate": {
+          "@type": "https://uri.etsi.org/ngsi-ld/DateTime",
+          "@id": "https://ontology.eglobalmark.com/sie#calibrationDate"
+       },
+       "monitoredBy": "https://ontology.eglobalmark.com/sie#monitoredBy",
+       "SmartCamera": "https://ontology.eglobalmark.com/sie#SmartCamera",
+       "Sensor": "https://ontology.eglobalmark.com/sie#Sensor",
+       "Device": "https://ontology.eglobalmark.com/sie#Device",
+       "monitors": "https://ontology.eglobalmark.com/sie#monitors",
+       "voltage": "https://ontology.eglobalmark.com/sie#voltage",
+       "raised": "https://ontology.eglobalmark.com/sie#raised",
+       "name": "https://schema.org/name"
+    }
+ }
