@@ -1,5 +1,5 @@
 {
    "@context":{
-      "https://ontology.siemens.com/apic#Wolf": "Wolf"
+      "Wolf": "https://ontology.siemens.com/apic#Wolf"
    }
 }
