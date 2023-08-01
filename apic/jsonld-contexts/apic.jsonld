@@ -1,7 +1,7 @@
 {
    "@context":{
       "Beekeeper": "https://ontology.eglobalmark.com/apic#Beekeeper",
-      "Pistachio": "https://ontology.eglobalmark.com/apic#Pistachio",
+      "Wolf": "https://ontology.eglobalmark.com/apic#Wolf",
       "BeeHive": "https://ontology.eglobalmark.com/apic#BeeHive",
       "doorNumber": "https://ontology.eglobalmark.com/apic#doorNumber",
       "Apiary": "https://ontology.eglobalmark.com/apic#Apiary",
