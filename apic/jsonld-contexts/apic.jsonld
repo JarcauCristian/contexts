@@ -1,6 +1,5 @@
 {
    "@context":{
-      "Beekeeper": "https://ontology.eglobalmark.com/apic#Beekeeper",
       "Wolf": "https://ontology.eglobalmark.com/apic#Wolf"
    }
 }
