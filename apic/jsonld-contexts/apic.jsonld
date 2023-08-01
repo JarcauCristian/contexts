@@ -1,5 +1,5 @@
 {
-    "@context":{
-       "Pistachio": "https://ontology.eglobalmark.com/apic#Pistachio"
+    "@context": {
+       "https://ontology.eglobalmark.com/apic#Pistachio": "Pistachio"
     }
  }
