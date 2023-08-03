@@ -31,6 +31,6 @@
        "monitors": "https://ontology.eglobalmark.com/sie#monitors",
        "voltage": "https://ontology.eglobalmark.com/sie#voltage",
        "raised": "https://ontology.eglobalmark.com/sie#raised",
-       "name": "https://schema.org/name"
+       "name": "https://ontology.eglobalmark.com/sie#name"
     }
  }
