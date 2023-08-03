@@ -1,5 +1,6 @@
 {
    "@context":{
-      "Wolf": "https://ontology.siemens.com/data-models#Wolf"
+      "Wolf": "https://ontology.siemens.com/data-models#Wolf",
+      "Pack": "https://ontology.siemens.com/data-models#Pack"
    }
 }
