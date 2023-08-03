@@ -1,7 +1,7 @@
 {
    "@context":{
-      "Wolf": "https://ontology.siemens.com/data-models#Wolf",
-      "Pack": "https://ontology.siemens.com/data-models#Pack",
-      "Random": "https://ontology.siemens.com/data-models#Random"
+      "Wolf": "https://ontology.siemens.com/ns/data-models#Wolf",
+      "Pack": "https://ontology.siemens.com/ns/data-models#Pack",
+      "Random": "https://ontology.siemens.com/ns/data-models#Random"
    }
 }
